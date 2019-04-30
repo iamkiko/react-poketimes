@@ -1,6 +1,6 @@
-import react from 'react';
+import React from 'react';
 
-const home = () => {
+const Home = () => {
     return (
         <div className="container">
             <h4 className="center">Home</h4>
