@@ -1,12 +1,14 @@
-import React from 'react';
+import React from 'react'
 
 const About = () => {
-    return (
-        <div className="container">
-            <h4 className="center">About</h4>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
-        </div>
-    )
+  return (
+    <div>
+      <div className="container">
+        <h4 className="center">About</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae repudiandae repellat illo magni eligendi cupiditate voluptates eius nam voluptate. Incidunt nihil ullam quae quia officia quaerat, deserunt eligendi explicabo totam?</p>
+      </div>
+    </div>
+  )
 }
 
 export default About
